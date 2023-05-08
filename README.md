@@ -1,2 +1,2 @@
 # text-to-database
- Import data from texto to database using Python and MySQL
+ Import data from text to database using Python and MySQL
